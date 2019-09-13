@@ -106,7 +106,7 @@ body {
     position: relative;
     margin-left: 0px;
     margin-top: 300px;
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-right: 2rem;
     padding: 2rem;
 
@@ -132,40 +132,4 @@ body {
   color: white;
   background-color: black;
   margin: auto;
-}
-
-* {
-  background-color: rgba(255, 0, 0, 0.2);
-}
-
-** {
-  background-color: rgba(0, 255, 0, 0.2);
-}
-
-*** {
-  background-color: rgba(0, 0, 255, 0.2);
-}
-
-**** {
-  background-color: rgba(255, 0, 255, 0.2);
-}
-
-***** {
-  background-color: rgba(0, 255, 255, 0.2);
-}
-
-****** {
-  background-color: rgba(255, 255, 0, 0.2);
-}
-
-******* {
-  background-color: rgba(255, 0, 0, 0.2);
-}
-
-** * * * * * * {
-  background-color: rgba(0, 255, 0, 0.2);
-}
-
-** * * * * * * * {
-  background-color: rgba(0, 0, 255, 0.2);
 }
